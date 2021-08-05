@@ -10,6 +10,17 @@
   </a>
 
 </div>
+
+ <div>
+  <a href="https://github.com/tarsobessa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsobessa&layout=compact&langs_count=10"/> 
+  </a>
+
+  <a href="https://github.com/tarsobessa">    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarsobessa&show_icons=true&include_all_commits=true&count_private=true"/>  
+  </a>
+
+</div>
  
  <!-- <div>
   <a href="https://github.com/Silvinomo">
