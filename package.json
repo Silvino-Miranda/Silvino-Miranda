@@ -1,0 +1,23 @@
+{
+  "name": "Silvinomo",
+  "version": "1.0.0",
+  "description": "<div>\r   <a href=\"https://github.com/Silvinomo\">\r     <img height=\"180em\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Silvinomo&layout=compact&langs_count=10\"/> \r   </a>",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silvinomo/Silvinomo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Silvinomo/Silvinomo/issues"
+  },
+  "homepage": "https://github.com/Silvinomo/Silvinomo#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
