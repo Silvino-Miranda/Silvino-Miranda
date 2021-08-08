@@ -1,5 +1,5 @@
 {
-  "name": "Silvinomo",
+  "name": "silvinomo",
   "version": "1.0.0",
   "description": "<div>\r   <a href=\"https://github.com/Silvinomo\">\r     <img height=\"180em\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Silvinomo&layout=compact&langs_count=10\"/> \r   </a>",
   "main": "index.js",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Silvinomo/Silvinomo#readme",
   "dependencies": {
     "live-server": "^1.2.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
   }
 }
