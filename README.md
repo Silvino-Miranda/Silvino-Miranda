@@ -16,7 +16,7 @@
   </a>
 </div>
 
- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=Silvinomo.visitor-badge)](https://github.com/Silvinomo)
+ <!-- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=Silvinomo.visitor-badge)](https://github.com/Silvinomo) -->
 
 <div align="center" style="display: inline_block">
   <h3>Linguagens de programação</h3>
