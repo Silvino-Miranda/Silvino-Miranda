@@ -3,14 +3,14 @@
 <div align="center">
   <a href="https://github.com/Silvinomo">
     <img
-      height="180em"
+      height="175em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvinomo&layout=compact&langs_count=10"
     />
   </a>
 
   <a href="https://github.com/Silvinomo">
     <img
-      height="180em"
+      height="175em"
       src="https://github-readme-stats.vercel.app/api?username=Silvinomo&show_icons=true&include_all_commits=true&count_private=true"
     />
   </a>
