@@ -1,4 +1,4 @@
-   ## Oi! Eu sou o Silvino Miranda dev Full-Stack
+   ## Oi! Eu sou Silvino Miranda dev Full-Stack
 
 <div align="center">
   <a href="https://github.com/Silvinomo">
