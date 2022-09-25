@@ -196,7 +196,6 @@
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg"
         />
       </div>
-
       <h3>DevOps</h3>
       <div align="center">
         <img
