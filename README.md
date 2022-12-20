@@ -7,6 +7,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvinomo&layout=compact&langs_count=10"
     />
   </a>
+
   <a href="https://github.com/Silvinomo">
     <img
       height="175em"
@@ -201,78 +202,68 @@
     />
   </div>
 
-  <table>
-    <tr>
-      <th><h3>DevOps</h3></th>
-      <th><h3></h3></th>
-      <th><h3>Tools</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <img
-            align="center"
-            alt="nginx"
-            height="50"
-            width="60"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-          />
-          <img
-            align="center"
-            alt="docker"
-            height="50"
-            width="60"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-          />
-          <img
-            align="center"
-            alt="jenkins"
-            height="50"
-            width="60"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
-          />
-          <img
-            align="center"
-            alt="kubernetes"
-            height="50"
-            width="60"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
-          />
-        </div>
-      </td>
-      <td><h3>| | | | | |</h3></td>
-      <td>
-        <div align="center">
-          <img
-            align="center"
-            alt="jira"
-            height="50"
-            width="60"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"
-          />
-          <img
-            align="center"
-            alt="git"
-            height="50"
-            width="60"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"
-          />
-          <img
-            align="center"
-            alt="Github"
-            height="50"
-            width="60"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-          />
-          <img
-            align="center"
-            alt="Gitlab"
-            height="50"
-            width="60"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"
-          />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <h3>DevOps</h3>
+
+  <div align="center">
+    <img
+      align="center"
+      alt="nginx"
+      height="50"
+      width="60"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+    />
+    <img
+      align="center"
+      alt="docker"
+      height="50"
+      width="60"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+    />
+    <img
+      align="center"
+      alt="jenkins"
+      height="50"
+      width="60"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
+    />
+    <img
+      align="center"
+      alt="kubernetes"
+      height="50"
+      width="60"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
+    />
+  </div>
+
+  <h3>Tools</h3>
+  <div align="center">
+    <img
+      align="center"
+      alt="jira"
+      height="50"
+      width="60"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"
+    />
+    <img
+      align="center"
+      alt="git"
+      height="50"
+      width="60"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"
+    />
+    <img
+      align="center"
+      alt="Github"
+      height="50"
+      width="60"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+    />
+    <img
+      align="center"
+      alt="Gitlab"
+      height="50"
+      width="60"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"
+    />
+  </div>
 </div>
