@@ -212,5 +212,12 @@
           width="60"
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
         />
+        <img
+          align="center"
+          alt="Silvino"
+          height="50"
+          width="60"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
+        />
      </div>
   </div>
