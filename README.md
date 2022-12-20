@@ -124,6 +124,13 @@
         />
         <img
           align="center"
+          alt="Silvino"
+          height="50"
+          width="60"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-plain.svg"
+        />
+        <img
+          align="center"
           alt="Silvino-React"
           height="50"
           width="60"
@@ -196,28 +203,100 @@
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg"
         />
       </div>
-      <h3>DevOps</h3>
-      <div align="center">
-        <img
-          align="center"
-          alt="Silvino"
-          height="50"
-          width="60"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-        />
-        <img
-          align="center"
-          alt="Silvino"
-          height="50"
-          width="60"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
-        />
-        <img
-          align="center"
-          alt="Silvino"
-          height="50"
-          width="60"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
-        />
-     </div>
-  </div>
+
+      <table>
+        <tr>
+          <th><h3>DevOps</h3></th>
+          <th><h3></h3></th>
+          <th><h3>Tools</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <div align="center">
+              <img
+                align="center"
+                alt="nginx"
+                height="50"
+                width="60"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+              />
+              <img
+                align="center"
+                alt="docker"
+                height="50"
+                width="60"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+              />
+              <img
+                align="center"
+                alt="jenkins"
+                height="50"
+                width="60"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
+              />
+              <img
+                align="center"
+                alt="kubernetes"
+                height="50"
+                width="60"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
+              />
+            </div>
+          </td>
+          <td><h3>| | | | | |</h3></td>
+          <td>
+            <div align="center">
+              <img
+                align="center"
+                alt="jira"
+                height="50"
+                width="60"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"
+              />
+              <img
+                align="center"
+                alt="git"
+                height="50"
+                width="60"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"
+              />
+              <img
+                align="center"
+                alt="Github"
+                height="50"
+                width="60"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+              />
+              <img
+                align="center"
+                alt="Gitlab"
+                height="50"
+                width="60"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"
+              />
+            </div>
+          </td>
+        </tr>
+      </table>
+      <!-- <img
+        align="right"
+        alt="Silvino-yoda"
+        src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"
+      /> -->
+    </div>
+    <!-- https://github.com/devicons/devicon/tree/master/icons -->
+    <!--  ##
+
+<div>
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+</div> -->
+  </body>
+</html>
