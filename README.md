@@ -1,17 +1,17 @@
    ## Oi! Eu sou o Silvino Miranda dev Full-Stack Sênior
 
 <div align="center">
-  <a href="https://github.com/Silvinomo">
+  <a href="https://github.com/Silvino-Miranda">
     <img
       height="175em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvinomo&layout=compact&langs_count=10"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvino-Miranda&layout=compact&langs_count=10"
     />
   </a>
 
-  <a href="https://github.com/Silvinomo">
+  <a href="https://github.com/Silvino-Miranda">
     <img
       height="175em"
-      src="https://github-readme-stats.vercel.app/api?username=Silvinomo&show_icons=true&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=Silvino-Miranda&show_icons=true&include_all_commits=true&count_private=true"
     />
   </a>
 </div>
