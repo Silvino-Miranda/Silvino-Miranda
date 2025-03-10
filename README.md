@@ -1,7 +1,11 @@
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px;">
 
+[**Gráficos**](src\pages\graficos\graficos.md)
+
+
 # Olá, eu sou Silvino Miranda 👋
 ### Dev Full-Stack Sênior
+
 
 <div align="center">
   <a href="https://github.com/Silvino-Miranda">
