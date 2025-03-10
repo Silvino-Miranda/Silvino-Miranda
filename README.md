@@ -1,6 +1,6 @@
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px;">
 
-[**Gráficos**](src\pages\graficos\graficos.md)
+<!-- [**Gráficos**](src\pages\graficos\graficos.md) -->
 
 
 # Olá, eu sou Silvino Miranda 👋
@@ -84,5 +84,10 @@
   <img alt="GitHub" height="50" width="60" src="assets/images/tools/github-original.svg" />
   <img alt="GitLab" height="50" width="60" src="assets/images/tools/gitlab-original.svg" />
 </div>
+
+<div align="center">
+  <img alt="Grafico" height="100%" src="./assets/profile-3d-contrib/profile-season-animate.svg"/>
+</div>
+
 
 </div>

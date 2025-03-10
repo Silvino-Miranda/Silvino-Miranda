@@ -7,8 +7,6 @@
 
 <div align="center">
   <img alt="Grafico" height="100%" src="./../../../assets/profile-3d-contrib/profile-season-animate.svg"/>
-
-
 </div>
 
 </div>
