@@ -85,6 +85,8 @@
   <img alt="GitLab" height="50" width="60" src="assets/images/tools/gitlab-original.svg" />
 </div>
 
+<hr />
+
 <div align="center">
   <img alt="Grafico" height="100%" src="./assets/profile-3d-contrib/profile-season-animate.svg"/>
 </div>
