@@ -152,10 +152,6 @@
         <br>Angular
       </td>
       <td align="center" width="96">
-        <img src="assets/images/frameworks/karma-plain.svg" width="48" height="48" alt="Karma" />
-        <br>Karma
-      </td>
-      <td align="center" width="96">
         <img src="assets/images/frameworks/react-original.svg" width="48" height="48" alt="React" />
         <br>React
       </td>
@@ -166,6 +162,30 @@
       <td align="center" width="96">
         <img src="assets/images/frameworks/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
         <br>Bootstrap
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Testing
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="assets/images/frameworks/karma-plain.svg" width="48" height="48" alt="Karma" />
+        <br>Karma
+      </td>
+      <td align="center" width="96">
+        <img src="assets/images/frameworks/vitest.svg" width="48" height="48" alt="Vitest" />
+        <br>Vitest
+      </td>
+      <td align="center" width="96">
+        <img src="assets/images/frameworks/jest.svg" width="48" height="48" alt="Jest" />
+        <br>Jest
+      </td>
+      <td align="center" width="96">
+        <img src="assets/images/frameworks/jasmine.svg" width="48" height="48" alt="Jasmine" />
+        <br>Jasmine
       </td>
     </tr>
   </table>
