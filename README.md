@@ -196,8 +196,6 @@
   </table>
 </div>
 
----
-
 ## Bancos de Dados
 
 <div align="center">
@@ -226,8 +224,6 @@
     </tr>
   </table>
 </div>
-
----
 
 ## DevOps
 
@@ -262,8 +258,6 @@
   </table>
 </div>
 
----
-
 ## Ferramentas
 
 <div align="center">
@@ -292,8 +286,6 @@
     </tr>
   </table>
 </div>
-
----
 
 ## Data Science & ML
 
