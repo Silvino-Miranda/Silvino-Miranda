@@ -42,28 +42,41 @@
   <img alt="PHP" height="50" width="60" src="assets/images/programming_languages/php-plain.svg" />
   <img alt="HTML5" height="50" width="60" src="assets/images/programming_languages/html5-original.svg" />
   <img alt="CSS3" height="50" width="60" src="assets/images/programming_languages/css3-original.svg" />
+  <img alt="Pascal" height="50" width="60" src="assets/images/programming_languages/pascal-original.svg" />
+  <img alt="Delphi" height="50" width="60" src="assets/images/programming_languages/delphi-original.svg" />
 </div>
-<p align="center">Linguagens: TypeScript, JavaScript, Java, Dart, Python, C#, PHP, HTML5 e CSS3</p>
+<p align="center">Linguagens: TypeScript, JavaScript, Java, Dart, Python, C#, PHP, Pascal, Delphi, HTML5 e CSS3</p>
 
 ---
 
-## Frameworks (Back-end, Front-end e Mobile)
+## Frameworks
 
+### Back-end
 <div align="center">
   <img alt="Node.js" height="50" width="60" src="assets/images/frameworks/nodejs-plain.svg" />
   <img alt="NestJS" height="50" width="60" src="assets/images/frameworks/nestjs-plain.svg" />
   <img alt="Express" height="50" width="60" src="assets/images/frameworks/express-original-wordmark.svg" />
   <img alt="Spring" height="50" width="60" src="assets/images/frameworks/spring-original.svg" />
   <img alt="GraphQL" height="50" width="60" src="assets/images/frameworks/graphql-plain-wordmark.svg" />
+  <img alt="CodeIgniter" height="50" width="60" src="assets/images/frameworks/codeigniter-plain.svg" />
+</div>
+<p align="center">Back-end: Node.js, NestJS, Express, Spring, GraphQL e CodeIgniter</p>
+
+### Front-end
+<div align="center">
   <img alt="AngularJS" height="50" width="60" src="assets/images/frameworks/angularjs-plain.svg" />
   <img alt="Karma" height="50" width="60" src="assets/images/frameworks/karma-plain.svg" />
   <img alt="React" height="50" width="60" src="assets/images/frameworks/react-original.svg" />
   <img alt="Next.js" height="50" width="60" src="assets/images/frameworks/nextjs-original-wordmark.svg" />
-  <img alt="CodeIgniter" height="50" width="60" src="assets/images/frameworks/codeigniter-plain.svg" />
   <img alt="Bootstrap" height="50" width="60" src="assets/images/frameworks/bootstrap-plain.svg" />
+</div>
+<p align="center">Front-end: AngularJS, Karma, React, Next.js e Bootstrap</p>
+
+### Mobile
+<div align="center">
   <img alt="Flutter" height="50" width="60" src="assets/images/frameworks/flutter-original.svg" />
 </div>
-<p align="center">Frameworks: Node.js, NestJS, Express, Spring, GraphQL, AngularJS, Karma, React, Next.js, CodeIgniter, Bootstrap e Flutter</p>
+<p align="center">Mobile: Flutter</p>
 
 ---
 
