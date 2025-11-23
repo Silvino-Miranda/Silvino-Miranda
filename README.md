@@ -14,8 +14,6 @@
   </a>
 </div>
 
----
-
 ## Gen AI
 
 <div align="center">
@@ -44,9 +42,6 @@
     </tr>
   </table>
 </div>
-
-
----
 
 ## Linguagens de Programação
 
@@ -102,8 +97,6 @@
     </tr>
   </table>
 </div>
-
----
 
 ## Frameworks
 
