@@ -135,6 +135,10 @@
         <img src="assets/images/frameworks/codeigniter-plain.svg" width="48" height="48" alt="CodeIgniter" />
         <br>CodeIgniter
       </td>
+      <td align="center" width="96">
+        <img src="assets/images/frameworks/fastapi.svg" width="48" height="48" alt="FastAPI" />
+        <br>FastAPI
+      </td>
     </tr>
   </table>
 </div>
@@ -237,6 +241,10 @@
         <img src="assets/images/devops/githubactions.svg" width="48" height="48" alt="GitHub Actions" />
         <br>GitHub Actions
       </td>
+      <td align="center" width="96">
+        <img src="assets/images/devops/aws.svg" width="48" height="48" alt="AWS" />
+        <br>AWS
+      </td>
     </tr>
   </table>
 </div>
@@ -263,6 +271,10 @@
       <td align="center" width="96">
         <img src="assets/images/tools/gitlab-original.svg" width="48" height="48" alt="GitLab" />
         <br>GitLab
+      </td>
+      <td align="center" width="96">
+        <img src="assets/images/tools/n8n.svg" width="48" height="48" alt="n8n" />
+        <br>n8n
       </td>
     </tr>
   </table>
