@@ -148,8 +148,8 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="assets/images/frameworks/angularjs-plain.svg" width="48" height="48" alt="AngularJS" />
-        <br>AngularJS
+        <img src="assets/images/frameworks/angular.svg" width="48" height="48" alt="Angular" />
+        <br>Angular
       </td>
       <td align="center" width="96">
         <img src="assets/images/frameworks/karma-plain.svg" width="48" height="48" alt="Karma" />
@@ -275,6 +275,33 @@
       <td align="center" width="96">
         <img src="assets/images/tools/n8n.svg" width="48" height="48" alt="n8n" />
         <br>n8n
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## Data Science & ML
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="assets/images/datascience/pandas.svg" width="48" height="48" alt="Pandas" />
+        <br>Pandas
+      </td>
+      <td align="center" width="96">
+        <img src="assets/images/datascience/numpy.svg" width="48" height="48" alt="NumPy" />
+        <br>NumPy
+      </td>
+      <td align="center" width="96">
+        <img src="assets/images/datascience/matplotlib.svg" width="48" height="48" alt="Matplotlib" />
+        <br>Matplotlib
+      </td>
+      <td align="center" width="96">
+        <img src="assets/images/datascience/tensorflow.svg" width="48" height="48" alt="TensorFlow" />
+        <br>TensorFlow
       </td>
     </tr>
   </table>
