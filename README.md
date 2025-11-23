@@ -2,10 +2,8 @@
 
 <!-- [**Gráficos**](src\pages\graficos\graficos.md) -->
 
-
 # Olá, eu sou Silvino Miranda 👋
 ### Dev Full-Stack Sênior
-
 
 <div align="center">
   <a href="https://github.com/Silvino-Miranda">
@@ -15,6 +13,20 @@
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Silvino-Miranda&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Silvino's GitHub Stats" onerror="this.onerror=null;this.src='assets/images/stats/github-stats.svg';">
   </a>
 </div>
+
+---
+
+## Gen AI
+
+<div align="center">
+  <img alt="Agno" height="50" width="60" src="assets/images/genai/agno.svg" />
+  <img alt="Crewai" height="50" width="60" src="assets/images/genai/crewai.svg" />
+  <img alt="Langchain" height="50" width="60" src="assets/images/genai/langchain.svg" />
+  <img alt="OpenAI" height="50" width="60" src="assets/images/genai/openai.svg" />
+  <img alt="LLM Open Source" height="50" width="60" src="assets/images/genai/llm-open-source.svg" />
+</div>
+<p align="center">Tecnologias de IA Generativa: Langchain, Crewai, Agno, OpenAI e LLM open source</p>
+
 
 ---
 
@@ -31,6 +43,7 @@
   <img alt="HTML5" height="50" width="60" src="assets/images/programming_languages/html5-original.svg" />
   <img alt="CSS3" height="50" width="60" src="assets/images/programming_languages/css3-original.svg" />
 </div>
+<p align="center">Linguagens: TypeScript, JavaScript, Java, Dart, Python, C#, PHP, HTML5 e CSS3</p>
 
 ---
 
@@ -50,6 +63,7 @@
   <img alt="Bootstrap" height="50" width="60" src="assets/images/frameworks/bootstrap-plain.svg" />
   <img alt="Flutter" height="50" width="60" src="assets/images/frameworks/flutter-original.svg" />
 </div>
+<p align="center">Frameworks: Node.js, NestJS, Express, Spring, GraphQL, AngularJS, Karma, React, Next.js, CodeIgniter, Bootstrap e Flutter</p>
 
 ---
 
@@ -62,6 +76,7 @@
   <img alt="MongoDB" height="50" width="60" src="assets/images/databases/mongodb-plain.svg" />
   <img alt="Firebase" height="50" width="60" src="assets/images/databases/firebase-plain-wordmark.svg" />
 </div>
+<p align="center">Bancos de Dados: PostgreSQL, MySQL, Oracle, MongoDB e Firebase</p>
 
 ---
 
@@ -73,6 +88,7 @@
   <img alt="Jenkins" height="50" width="60" src="assets/images/devops/jenkins-original.svg" />
   <img alt="Kubernetes" height="50" width="60" src="assets/images/devops/kubernetes-plain.svg" />
 </div>
+<p align="center">DevOps: nginx, Docker, Jenkins e Kubernetes</p>
 
 ---
 
@@ -84,12 +100,12 @@
   <img alt="GitHub" height="50" width="60" src="assets/images/tools/github-original.svg" />
   <img alt="GitLab" height="50" width="60" src="assets/images/tools/gitlab-original.svg" />
 </div>
+<p align="center">Ferramentas: Jira, Git, GitHub e GitLab</p>
 
-<hr />
+---
 
 <div align="center">
   <img alt="Grafico" height="100%" src="./assets/profile-3d-contrib/profile-season-animate.svg"/>
 </div>
-
 
 </div>
