@@ -172,16 +172,16 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="assets/images/frameworks/karma-plain.svg" width="48" height="48" alt="Karma" />
-        <br>Karma
-      </td>
-      <td align="center" width="96">
         <img src="assets/images/frameworks/vitest.svg" width="48" height="48" alt="Vitest" />
         <br>Vitest
       </td>
       <td align="center" width="96">
         <img src="assets/images/frameworks/jest.svg" width="48" height="48" alt="Jest" />
         <br>Jest
+      </td>
+      <td align="center" width="96">
+        <img src="assets/images/frameworks/karma-plain.svg" width="48" height="48" alt="Karma" />
+        <br>Karma
       </td>
       <td align="center" width="96">
         <img src="assets/images/frameworks/jasmine.svg" width="48" height="48" alt="Jasmine" />
