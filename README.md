@@ -87,8 +87,9 @@
   <img alt="Docker" height="50" width="60" src="assets/images/devops/docker-original.svg" />
   <img alt="Jenkins" height="50" width="60" src="assets/images/devops/jenkins-original.svg" />
   <img alt="Kubernetes" height="50" width="60" src="assets/images/devops/kubernetes-plain.svg" />
+  <img alt="GitHub Actions" height="50" width="60" src="assets/images/devops/githubactions.svg" />
 </div>
-<p align="center">DevOps: nginx, Docker, Jenkins e Kubernetes</p>
+<p align="center">DevOps: nginx, Docker, Jenkins, Kubernetes e GitHub Actions</p>
 
 ---
 
