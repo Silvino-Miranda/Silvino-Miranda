@@ -15,14 +15,15 @@
 
 </div>
 
-<!-- <div align="center">
-  <a href="https://github.com/Silvino-Miranda">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvino-Miranda&layout=compact&langs_count=10" alt="Silvino's most used languages" onerror="this.onerror=null;this.src='assets/images/stats/top-langs.svg';">
-  </a>
-  <a href="https://github.com/Silvino-Miranda">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Silvino-Miranda&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Silvino's GitHub Stats" onerror="this.onerror=null;this.src='assets/images/stats/github-stats.svg';">
-  </a>
-</div> -->
+## Sobre Mim
+
+- 🚀 **+10 anos** desenvolvendo sistemas web, desktop e mobile de alta disponibilidade
+- 💼 Atualmente **Senior Full-Stack Developer** na **SX Group** (Remoto) — Angular, NestJS, Java/Spring, PostgreSQL
+- ☁️ Experiência sólida com infraestrutura cloud: **AWS · Docker · Kubernetes · CI/CD**
+- 🤖 Certificado em **Engenharia de Agentes de IA** (Asimov Academy, 2025) — construindo soluções com GenAI
+- 🏗️ Especialista em **Arquitetura Limpa e Hexagonal** — código sustentável e escalável
+- 🔗 Integração de **APIs RESTful** (JSON, XML) e microsserviços em ambientes de produção
+- 🛡️ Compromisso com qualidade: **99,9% uptime** garantido em sistemas críticos
 
 ## Gen AI
 
