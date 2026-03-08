@@ -15,6 +15,16 @@
 
 </div>
 
+## Projetos em Destaque
+
+<div align="center">
+
+[![aios-core](https://github-readme-stats.vercel.app/api/pin/?username=Silvino-Miranda&repo=aios-core&theme=transparent&hide_border=true)](https://github.com/Silvino-Miranda/aios-core)
+[![mangaba_ai](https://github-readme-stats.vercel.app/api/pin/?username=Silvino-Miranda&repo=mangaba_ai&theme=transparent&hide_border=true)](https://github.com/Silvino-Miranda/mangaba_ai)
+[![n-rainhas-spa](https://github-readme-stats.vercel.app/api/pin/?username=Silvino-Miranda&repo=n-rainhas-spa&theme=transparent&hide_border=true)](https://github.com/Silvino-Miranda/n-rainhas-spa)
+
+</div>
+
 ## Sobre Mim
 
 - 🚀 **+15 anos** desenvolvendo sistemas web, desktop e mobile de alta disponibilidade
