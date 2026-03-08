@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:silvino_miranda@hotmail.com)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Disponível-brightgreen?style=flat-square)](https://www.linkedin.com/in/silvino-miranda/)
 
-</div>
+<!-- </div>
 
 ## Projetos em Destaque
 
@@ -23,7 +23,7 @@
 [![mangaba_ai](https://github-readme-stats.vercel.app/api/pin/?username=Silvino-Miranda&repo=mangaba_ai&theme=transparent&hide_border=true)](https://github.com/Silvino-Miranda/mangaba_ai)
 [![n-rainhas-spa](https://github-readme-stats.vercel.app/api/pin/?username=Silvino-Miranda&repo=n-rainhas-spa&theme=transparent&hide_border=true)](https://github.com/Silvino-Miranda/n-rainhas-spa)
 
-</div>
+</div> -->
 
 ## Sobre Mim
 
