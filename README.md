@@ -5,7 +5,7 @@
 # Olá, eu sou Silvino Miranda 👋
 ### Senior Full-Stack Developer | Angular & NestJS/Java | Docker/K8s · AWS
 
-> Mais de 10 anos desenvolvendo sistemas web, desktop e mobile de alta disponibilidade. Especialista em Angular, NestJS, Java/Spring e infraestrutura cloud (AWS · Docker · Kubernetes). Certificado em Engenharia de Agentes de IA — construindo o futuro com GenAI. 🇧🇷 Venturosa, PE · English A1
+> Mais de 15 anos desenvolvendo sistemas web, desktop e mobile de alta disponibilidade. Especialista em Angular, NestJS, Java/Spring e infraestrutura cloud (AWS · Docker · Kubernetes). Certificado em Engenharia de Agentes de IA — construindo o futuro com GenAI. 🇧🇷 Venturosa, PE · English A1
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ## Sobre Mim
 
-- 🚀 **+10 anos** desenvolvendo sistemas web, desktop e mobile de alta disponibilidade
+- 🚀 **+15 anos** desenvolvendo sistemas web, desktop e mobile de alta disponibilidade
 - 💼 Atualmente **Senior Full-Stack Developer** na **SX Group** (Remoto) — Angular, NestJS, Java/Spring, PostgreSQL
 - ☁️ Experiência sólida com infraestrutura cloud: **AWS · Docker · Kubernetes · CI/CD**
 - 🤖 Certificado em **Engenharia de Agentes de IA** (Asimov Academy, 2025) — construindo soluções com GenAI
