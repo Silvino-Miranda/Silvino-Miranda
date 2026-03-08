@@ -3,16 +3,26 @@
 <!-- [**Gráficos**](src\pages\graficos\graficos.md) -->
 
 # Olá, eu sou Silvino Miranda 👋
-### Dev Full-Stack Sênior
+### Senior Full-Stack Developer | Angular & NestJS/Java | Docker/K8s · AWS
+
+> Mais de 10 anos desenvolvendo sistemas web, desktop e mobile de alta disponibilidade. Especialista em Angular, NestJS, Java/Spring e infraestrutura cloud (AWS · Docker · Kubernetes). Certificado em Engenharia de Agentes de IA — construindo o futuro com GenAI. 🇧🇷 Venturosa, PE · English A1
 
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Silvino%20Miranda-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvino-miranda/)
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:silvino_miranda@hotmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Disponível-brightgreen?style=flat-square)](https://www.linkedin.com/in/silvino-miranda/)
+
+</div>
+
+<!-- <div align="center">
   <a href="https://github.com/Silvino-Miranda">
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvino-Miranda&layout=compact&langs_count=10" alt="Silvino's most used languages" onerror="this.onerror=null;this.src='assets/images/stats/top-langs.svg';">
   </a>
   <a href="https://github.com/Silvino-Miranda">
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Silvino-Miranda&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Silvino's GitHub Stats" onerror="this.onerror=null;this.src='assets/images/stats/github-stats.svg';">
   </a>
-</div>
+</div> -->
 
 ## Gen AI
 
